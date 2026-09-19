@@ -1,0 +1,11 @@
+flask
+openai
+anthropic
+google-genai
+together
+requests
+networkx
+sentence-transformers
+torch
+transformers
+accelerate
